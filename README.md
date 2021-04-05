@@ -1,5 +1,7 @@
 # scraping-bettereducation
 
+Run on google colab to avoid selenium installation issues
+
 to scrape data regarding school rankings from all the pages of the below-given website and provide it in the form of an excel file. When you click on a particular school, it gives further information about Course Range (Levels), Co-Education, Denomination, and Students (approximate) so I need complete information in a flat excel file.
 
 
